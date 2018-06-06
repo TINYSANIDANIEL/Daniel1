@@ -1,5 +1,10 @@
 <html>
   <head>
+    <style>
+      body {background-color: powderblue;}
+      h1   {color: blue;}
+      p    {color: red;}
+    </style>
     <meta charset="utf-8">
     <title>Mi pagina de prueba</title>
   </head>
@@ -21,16 +26,18 @@
       </div>
       <button type="send"> Enviar </button>
     </form>
-    <table border="solid 1px">
-      <tr>
-        <th>Equipo</th>
-      </tr>
-      <tr>
-        <td>Colombia</td>
-      </tr>
-      <tr>
-        <td>Egipto</td>
-      </tr>
-    </table>
+    <div>
+      <table border="solid 1px">
+        <tr>
+          <th>Equipo</th>
+        </tr>
+        <tr>
+          <td>Colombia</td>
+        </tr>
+        <tr>
+          <td>Egipto</td>
+        </tr>
+      </table>
+    </div>
   </body>
 </html>
