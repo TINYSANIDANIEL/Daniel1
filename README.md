@@ -1,11 +1,10 @@
 <html>
   <head>
     <style>
-      body {background-color: powderblue;}
-      h1   {color: blue;}
-      p    {color: red;}
+      body {
+          background-color: lightblue;
+      }
     </style>
-    <meta charset="utf-8">
     <title>Mi pagina de prueba</title>
   </head>
   <body>
