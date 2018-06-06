@@ -11,6 +11,14 @@
     <div>
       <a href="https://www.youtube.com/watch?v=kFMZUxX6K6o" >Final</a>
     </div>
-    <img src="http://segundoenfoque.com/rusia-compartio-cancion-mundial-2018-2017-11-25">
+    <form>
+      <div>
+      <p> Email: </p>
+      <input type="email" placeholder="Email" />
+      <p> Contraseña: </p>
+      <input type="password" placeholder="Contraseña" />  
+      </div>
+      <button type="send"> Enviar </button>
+    </form>
   </body>
 </html>
