@@ -21,7 +21,7 @@
       </div>
       <button type="send"> Enviar </button>
     </form>
-    <table>
+    <table border="solid 1px">
       <tr>
         <th>Equipo</th>
       </tr>
