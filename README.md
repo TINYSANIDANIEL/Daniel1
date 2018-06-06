@@ -5,7 +5,11 @@
   </head>
   <body>
     <h1> Canciones del mundial: </h1>
-    <a href="https://www.youtube.com/watch?v=DEkNFao5IdU" >Inicio</a>
-    <a href="https://www.youtube.com/watch?v=kFMZUxX6K6o" >Final</a>
+    <div>
+      <a href="https://www.youtube.com/watch?v=DEkNFao5IdU" >Inicio</a>
+    </div>
+    <div>
+      <a href="https://www.youtube.com/watch?v=kFMZUxX6K6o" >Final</a>
+    </div>
   </body>
 </html>
