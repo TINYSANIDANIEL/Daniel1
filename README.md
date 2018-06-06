@@ -11,6 +11,7 @@
     <div>
       <a href="https://www.youtube.com/watch?v=kFMZUxX6K6o" >Final</a>
     </div>
+    <h1>Registro </h1>
     <form>
       <div>
       <p> Email: </p>
@@ -20,5 +21,16 @@
       </div>
       <button type="send"> Enviar </button>
     </form>
+    <table>
+      <tr>
+        <th>Equipo</th>
+      </tr>
+      <tr>
+        <td>Colombia</td>
+      </tr>
+      <tr>
+        <td>Egipto</td>
+      </tr>
+    </table>
   </body>
 </html>
